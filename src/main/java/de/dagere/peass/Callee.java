@@ -11,7 +11,7 @@ public class Callee {
       	oftenCalledMethod();
       }
       try {
-         Thread.sleep(1);
+         Thread.sleep(30);
       } catch (final InterruptedException e) {
          e.printStackTrace();
       }
